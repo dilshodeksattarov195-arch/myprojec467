@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterpncrypt",
+        "uuid": 307286,
+        "checksum": "4phsao"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
